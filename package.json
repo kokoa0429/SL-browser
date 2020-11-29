@@ -1,0 +1,24 @@
+{
+  "name": "sl-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^9.0.1",
+    "jimp": "^0.16.1",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "sharp": "^0.26.3"
+  }
+}
